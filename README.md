@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Tory Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToryDeng&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Tory Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToryDeng&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on bioinformatics
 - 🌱 I’m currently learning attention mechanisim
