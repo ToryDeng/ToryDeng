@@ -10,7 +10,7 @@
 ## 📈Statistics
 <div align="center">
 <span></span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=ToryDeng&show_icons=true&theme=react" /><span>&emsp;&emsp;</span><img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=material-palenight&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ToryDeng&show_icons=true&theme=react" /><span>&emsp;&emsp;</span><img height="170px"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=material-palenight&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
