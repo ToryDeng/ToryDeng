@@ -9,10 +9,11 @@
 
 ## 📈Statistics
 <div align="center">
-<span>&emsp;&emsp;</span>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ToryDeng&show_icons=true&theme=react" /><span>&emsp;&emsp;</span><img height="160px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=material-palenight&layout=compact&langs_count=8" />
+<span></span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=ToryDeng&show_icons=true&theme=react" /><span>&emsp;&emsp;</span><img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=material-palenight&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ToryDeng&theme=calm" />
