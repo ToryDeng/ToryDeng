@@ -1,8 +1,6 @@
 # Hi there 👋
-## 🥱About me
-- Name: Tory Deng / Tao Deng
-- Hometown: Yueyang, Hunan Province, China
-
+## 🖐️About me
+- 👦 Name: Tory Deng / Tao Deng
 - 🔭 I’m currently working on single-cell RNA sequencing data
 - 🌱 I’m currently learning attention mechanisim
 - 💬 Ask me about how to use the LaTex template I created for the bachelor thesis of ZUEL
@@ -14,9 +12,6 @@
 <img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook&theme=material-palenight&layout=compact&langs_count=8" />
 
 </div>
-
-
-
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ToryDeng&theme=calm" />
