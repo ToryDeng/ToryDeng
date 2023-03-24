@@ -1,8 +1,8 @@
 # Hi there 👋
 ## 🖐️About me
 - 👦 Name: Tory Deng / Tao Deng
-- 🔭 I’m currently working on single-cell RNA sequencing data
-- 🌱 I’m currently learning attention mechanisim
+- 🔭 I’m currently working on spatial transcriptomics and scRNA-seq data
+- 🌱 I’m currently learning in CUHK-SZ
 - 💬 Ask me about how to use the LaTex template I created for the bachelor thesis of ZUEL
 
 ## 📈Statistics
