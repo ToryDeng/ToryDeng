@@ -33,8 +33,10 @@
     <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="50" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" height="50" /></a>
     <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" height="50" /></a>
+    <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" height="50" /></a>
     <a href="https://scanpy.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://scanpy.readthedocs.io/en/latest/_static/Scanpy_Logo_BrightFG.svg" alt="scanpy" height="50" /></a>
     <a href="https://squidpy.readthedocs.io/en/stable/" target="_blank"><img style="margin: 10px" src="https://squidpy.readthedocs.io/en/stable/_static/squidpy_horizontal.png" alt="squidpy" height="50" /></a>
+    <a href="https://www.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tidyverse/tidyverse/raw/main/man/figures/logo.png" alt="tidyverse" height="50" /></a>
     <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="50" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="50" /></a>
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="50" /></a>
