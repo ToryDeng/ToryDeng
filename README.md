@@ -35,7 +35,6 @@
     <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" height="50" /></a>
     <a href="https://scanpy.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://scanpy.readthedocs.io/en/latest/_static/Scanpy_Logo_BrightFG.svg" alt="scanpy" height="50" /></a>
     <a href="https://squidpy.readthedocs.io/en/stable/" target="_blank"><img style="margin: 10px" src="https://squidpy.readthedocs.io/en/stable/_static/squidpy_horizontal.png" alt="squidpy" height="50" /></a>
-        <br>
     <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="50" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="50" /></a>
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="50" /></a>
