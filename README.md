@@ -1,5 +1,4 @@
 # Hi there 👋
-You are my ![Visitor Count](https://profile-counter.glitch.me/ToryDeng/count.svg) visitor!
 
 ## 🖐️About me
 - 👦 Name: Tory Deng / Tao Deng
