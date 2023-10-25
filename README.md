@@ -2,7 +2,7 @@
 
 ## 🖐️About me
 - 👦 Name: Tory Deng / Tao Deng
-- 🌱 A first-year Ph.D. student at CUHK-Shenzhen
+- 🌱 A second-year Ph.D. student at CUHK-Shenzhen
 - 🔭 I’m currently working on spatial transcriptomics and scRNA-seq data
 - ❓ Ask me about how to use the LaTex template I created for the bachelor thesis of ZUEL
 
