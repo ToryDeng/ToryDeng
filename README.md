@@ -11,7 +11,7 @@
 
 <img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api?username=ToryDeng&show_icons=true&theme=react" />
 
-<img height="137px"  src="https://github-readme-stats-torydeng.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter,html%20notebook&theme=material-palenight&layout=compact&langs_count=8" />
+<img height="137px"  src="https://github-readme-stats-torydeng.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook,html&theme=material-palenight&layout=compact&langs_count=8" />
 
 </div>
 
