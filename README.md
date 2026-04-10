@@ -13,12 +13,12 @@ My research focuses on single-cell RNA-seq, spatial transcriptomics, and multimo
 
 ## GitHub Stats
 <div align="center">
-  <img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api?username=ToryDeng&show_icons=true&theme=react" />
-  <img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook,html&theme=material-palenight&layout=compact&langs_count=8" />
+  <img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api?username=ToryDeng&show_icons=true&theme=transparent" />
+  <img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api/top-langs/?username=ToryDeng&hide=jupyter%20notebook,html&theme=transparent&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToryDeng&theme=calm" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToryDeng&theme=transparent" />
 </div>
 
 ## Technologies and Tools
