@@ -6,11 +6,9 @@ My research focuses on single-cell RNA-seq, spatial transcriptomics, and multimo
 
 ## Selected Work
 
-| Project | Description |
-| :---: | :---: |
-| [**LEGEND**](https://github.com/ToryDeng/LEGEND) | Identifying co-expressed genes in multimodal transcriptomic sequencing data |
-| [**scCTS**](https://github.com/ToryDeng/scCTS) | Identifying cell type-specific marker genes from population-level single-cell RNA-seq |
-| [**scGeneClust**](https://github.com/ToryDeng/scGeneClust) | Feature gene selection for unannotated single-cell RNA-seq analysis |
+- [**LEGEND**](https://github.com/ToryDeng/LEGEND): Identifying co-expressed genes in multimodal transcriptomic sequencing data
+- [**scCTS**](https://github.com/ToryDeng/scCTS): Identifying cell type-specific marker genes from population-level single-cell RNA-seq
+- [**scGeneClust**](https://github.com/ToryDeng/scGeneClust): Feature gene selection for unannotated single-cell RNA-seq analysis
 
 
 ## GitHub Stats
